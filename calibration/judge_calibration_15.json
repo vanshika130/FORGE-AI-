@@ -1,0 +1,92 @@
+[
+  {
+    "id": "cal_01",
+    "answer": "Full-time shore staff receive 21 working days of annual leave per calendar year after 6 months probation.",
+    "context": "Full-time shore-based staff receive 21 working days of paid annual leave per calendar year after completing the 6-month probation period.",
+    "human_grounded": true
+  },
+  {
+    "id": "cal_02",
+    "answer": "Up to 10 unused annual leave days may be carried over into the next year.",
+    "context": "Up to 5 unused annual leave days may be carried over into the following calendar year if used before March 31.",
+    "human_grounded": false
+  },
+  {
+    "id": "cal_03",
+    "answer": "A medical certificate is required if sick leave lasts 3 or more consecutive working days.",
+    "context": "Shore staff are entitled to 10 paid sick leave days per calendar year. Absence of 3 or more consecutive working days requires a medical certificate submitted to HR within 2 days of returning to work.",
+    "human_grounded": true
+  },
+  {
+    "id": "cal_04",
+    "answer": "Primary caregivers receive 16 weeks of paid parental leave and secondary caregivers receive 4 weeks.",
+    "context": "Primary caregivers receive 16 weeks of paid parental leave, and secondary caregivers receive 4 weeks of paid parental leave within 12 months of birth or adoption.",
+    "human_grounded": true
+  },
+  {
+    "id": "cal_05",
+    "answer": "Bereavement leave is 10 working days for immediate family members.",
+    "context": "Employees are granted 5 working days of paid bereavement leave in the event of the death of an immediate family member.",
+    "human_grounded": false
+  },
+  {
+    "id": "cal_06",
+    "answer": "Flights under 6 hours require economy class, and trips over USD 1,500 need written manager pre-approval.",
+    "context": "All business trips estimated above USD 1,500 require written manager pre-approval at least 7 days prior to booking. Economy-class airfare is mandatory for all flights under 6 hours.",
+    "human_grounded": true
+  },
+  {
+    "id": "cal_07",
+    "answer": "Hotel caps are USD 180 for domestic travel and USD 240 for international travel, and business-class flights are allowed over 4 hours.",
+    "context": "Hotel nightly rate caps are USD 180 for domestic travel and USD 240 for international travel. Economy-class airfare is mandatory for all flights under 6 hours. Premium economy may be approved for single-leg flights exceeding 6 hours.",
+    "human_grounded": false
+  },
+  {
+    "id": "cal_08",
+    "answer": "The daily meal per diem is USD 65 per full travel day, and receipts must be submitted within 14 calendar days.",
+    "context": "The daily meal per diem is USD 65 per full travel day. Itemized receipts must be submitted in the expense portal within 14 calendar days of trip return.",
+    "human_grounded": true
+  },
+  {
+    "id": "cal_09",
+    "answer": "Employees may accept supplier gifts up to USD 50, while cash gifts are prohibited.",
+    "context": "Staff may not accept gifts, hospitality, or favours from suppliers exceeding USD 50 in value. Cash or cash equivalents of any amount are strictly prohibited.",
+    "human_grounded": true
+  },
+  {
+    "id": "cal_10",
+    "answer": "Suspected policy breaches must be reported to the HR Ethics Hotline within 48 hours.",
+    "context": "Suspected harassment, safety violations, or policy breaches must be reported to the HR Ethics Hotline or Compliance Officer within 48 hours.",
+    "human_grounded": true
+  },
+  {
+    "id": "cal_11",
+    "answer": "Nordic Marine Supply charges a 15% restocking fee on unused returns within 30 days and offers Net 30 payment terms.",
+    "context": "Unused stock returns are accepted within 30 days of delivery subject to a 15% restocking fee. Standard invoice terms are Net 30 days from bill of lading date.",
+    "human_grounded": true
+  },
+  {
+    "id": "cal_12",
+    "answer": "Nordic Marine Supply provides a 24-month warranty on all OEM spare parts.",
+    "context": "All OEM parts carry a 12-month warranty from the date of vessel installation or 15 months from shipment, whichever occurs first.",
+    "human_grounded": false
+  },
+  {
+    "id": "cal_13",
+    "answer": "Pacific Spares Ltd applies an automatic 5% bulk discount on orders exceeding USD 5,000.",
+    "context": "Orders exceeding USD 5,000 in total merchandise value receive an automatic 5% bulk discount prior to freight.",
+    "human_grounded": true
+  },
+  {
+    "id": "cal_14",
+    "answer": "Pacific Spares Ltd offers free air freight delivery to all European ports within 24 hours.",
+    "context": "Pacific Spares Ltd ships EXW Singapore or DDP major Asian and Middle East ports.",
+    "human_grounded": false
+  },
+  {
+    "id": "cal_15",
+    "answer": "Rubber seals and gaskets from Pacific Spares Ltd carry a 6-month warranty.",
+    "context": "Propulsion and main engine components carry an 18-month operational warranty. Rubber seals, O-rings, and gaskets carry a 6-month warranty.",
+    "human_grounded": true
+  }
+]

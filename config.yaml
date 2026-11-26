@@ -1,0 +1,79 @@
+# ForgeAI Configuration (Zero-Cost Stack)
+# Judge model MUST differ in family from agent model to avoid self-preference bias.
+
+roles:
+  agent:
+    primary:
+      provider: groq
+      model: llama-3.1-8b-instant
+      family: llama
+    fallbacks:
+      - provider: ollama
+        model: llama3.2:3b
+        family: llama
+      - provider: openrouter
+        model: meta-llama/llama-3.2-3b-instruct:free
+        family: llama
+      - provider: gemini
+        model: gemini-2.0-flash
+        family: gemini
+
+  factory:
+    primary:
+      provider: gemini
+      model: gemini-2.0-flash
+      family: gemini
+    fallbacks:
+      - provider: groq
+        model: llama-3.3-70b-versatile
+        family: llama
+      - provider: openrouter
+        model: google/gemma-3-27b-it:free
+        family: gemma
+      - provider: ollama
+        model: qwen2.5:3b
+        family: qwen
+
+  judge:
+    primary:
+      provider: gemini
+      model: gemini-2.0-flash
+      family: gemini
+    fallbacks:
+      - provider: openrouter
+        model: mistralai/mistral-small-3.1-24b-instruct:free
+        family: mistral
+      - provider: groq
+        model: qwen/qwen3-32b
+        family: qwen
+      - provider: ollama
+        model: qwen2.5:3b
+        family: qwen
+
+embeddings:
+  provider: sentence_transformers
+  model: all-MiniLM-L6-v2
+  ollama_fallback_model: nomic-embed-text
+  cache_dir: .forgeai_cache/embeddings
+
+llm:
+  cache_enabled: true
+  cache_dir: .forgeai_cache/llm
+  timeout_seconds: 45
+  max_retries: 3
+  json_repair_retries: 2
+  rate_limits_rpm:
+    groq: 25
+    gemini: 14
+    openrouter: 15
+    ollama: 120
+
+budgets:
+  max_tokens_per_run: 450000
+  max_minutes_per_run: 20
+  max_eval_cases: 30
+  dev_split_ratio: 0.7
+  max_optimization_iterations: 3
+  max_prompt_patch_lines: 12
+  groundability_min_similarity: 0.22
+  groundability_stop_unsupported_fraction: 0.50

@@ -1,0 +1,1 @@
+I need an assistant that helps marine engineers find ship spare parts in the spares catalogue, compare supplier delivery and warranty terms, and estimate order totals.

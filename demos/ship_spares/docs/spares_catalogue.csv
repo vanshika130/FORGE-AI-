@@ -1,0 +1,201 @@
+part_number,description,vessel_system,unit_price_usd,supplier,lead_time_days,stock_qty
+SP-0001,Piston Ring Set (MK-2),Main Engine,331.48,Pacific Spares Ltd,14,32
+SP-0002,Cylinder Liner (MK-3),Main Engine,1601.51,Nordic Marine Supply,3,14
+SP-0003,Fuel Injector Nozzle (MK-4),Main Engine,2197.01,Pacific Spares Ltd,14,35
+SP-0004,Exhaust Valve Spindle (MK-1),Main Engine,1056.58,Nordic Marine Supply,14,35
+SP-0005,Turbocharger Bearing (MK-2),Main Engine,2070.98,Pacific Spares Ltd,28,31
+SP-0006,Connecting Rod Bolt (MK-3),Main Engine,1851.22,Nordic Marine Supply,14,28
+SP-0007,Cylinder Head Gasket (MK-4),Main Engine,622.04,Pacific Spares Ltd,14,5
+SP-0008,Camshaft Follower (MK-1),Main Engine,311.32,Nordic Marine Supply,28,6
+SP-0009,AVR Voltage Regulator (MK-2),Auxiliary Generator,1126.42,Pacific Spares Ltd,28,43
+SP-0010,Alternator Brush Kit (MK-3),Auxiliary Generator,1224.14,Nordic Marine Supply,7,13
+SP-0011,Governor Actuator (MK-4),Auxiliary Generator,1000.31,Pacific Spares Ltd,7,22
+SP-0012,Starter Solenoid (MK-1),Auxiliary Generator,1981.35,Nordic Marine Supply,21,32
+SP-0013,Jacket Water Thermostat (MK-2),Auxiliary Generator,1578.71,Pacific Spares Ltd,21,21
+SP-0014,Lube Oil Filter Element (MK-3),Auxiliary Generator,260.64,Nordic Marine Supply,14,18
+SP-0015,Crankcase Breather (MK-4),Auxiliary Generator,736.68,Pacific Spares Ltd,5,41
+SP-0016,Excitation Diode Bridge (MK-1),Auxiliary Generator,1738.06,Nordic Marine Supply,14,19
+SP-0017,Sea Water Impeller (MK-2),Cooling & Pumps,104.5,Pacific Spares Ltd,21,23
+SP-0018,Mechanical Shaft Seal (MK-3),Cooling & Pumps,919.32,Nordic Marine Supply,10,5
+SP-0019,Plate Heat Exchanger Gasket (MK-4),Cooling & Pumps,1004.05,Pacific Spares Ltd,14,35
+SP-0020,Centrifugal Pump Wear Ring (MK-1),Cooling & Pumps,1243.78,Nordic Marine Supply,3,27
+SP-0021,Freshwater Cooler Tube (MK-2),Cooling & Pumps,1262.79,Pacific Spares Ltd,28,38
+SP-0022,Ballast Valve Actuator (MK-3),Cooling & Pumps,2150.42,Nordic Marine Supply,10,33
+SP-0023,Bilge Pump Diaphragm (MK-4),Cooling & Pumps,667.04,Pacific Spares Ltd,10,36
+SP-0024,Thermostatic Mixing Valve (MK-1),Cooling & Pumps,2272.59,Nordic Marine Supply,10,32
+SP-0025,X-Band Magnetron (MK-2),Navigation & Radar,1290.76,Pacific Spares Ltd,3,36
+SP-0026,Gyrocompass Repeater Card (MK-3),Navigation & Radar,584.98,Nordic Marine Supply,5,3
+SP-0027,AIS Transponder Antenna (MK-4),Navigation & Radar,2360.35,Pacific Spares Ltd,14,42
+SP-0028,ECDIS Trackball Module (MK-1),Navigation & Radar,291.7,Nordic Marine Supply,14,27
+SP-0029,Echo Sounder Transducer (MK-2),Navigation & Radar,1175.45,Pacific Spares Ltd,10,14
+SP-0030,Anemometer Wind Cup Set (MK-3),Navigation & Radar,2088.36,Nordic Marine Supply,3,40
+SP-0031,VHF Handset Assembly (MK-4),Navigation & Radar,1730.2,Pacific Spares Ltd,21,30
+SP-0032,GPS Receiver Module (MK-1),Navigation & Radar,1763.43,Nordic Marine Supply,14,16
+SP-0033,Mooring Winch Brake Band (MK-2),Deck Machinery,1391.31,Pacific Spares Ltd,21,19
+SP-0034,Hydraulic Hose Assembly (MK-3),Deck Machinery,1363.3,Nordic Marine Supply,21,32
+SP-0035,Windlass Clutch Lining (MK-4),Deck Machinery,1724.47,Pacific Spares Ltd,28,25
+SP-0036,Cargo Crane Wire Sheave (MK-1),Deck Machinery,1086.53,Nordic Marine Supply,7,17
+SP-0037,Hatch Cover Rubber Packing (MK-2),Deck Machinery,67.31,Pacific Spares Ltd,5,41
+SP-0038,Capstan Gear Pinion (MK-3),Deck Machinery,2166.31,Nordic Marine Supply,10,33
+SP-0039,Fairlead Roller Bush (MK-4),Deck Machinery,2274.33,Pacific Spares Ltd,7,12
+SP-0040,Hydraulic Relief Valve (MK-1),Deck Machinery,670.57,Nordic Marine Supply,10,29
+SP-0041,Piston Ring Set (MK-2),Main Engine,1274.6,Pacific Spares Ltd,28,31
+SP-0042,Cylinder Liner (MK-3),Main Engine,1988.14,Nordic Marine Supply,14,42
+SP-0043,Fuel Injector Nozzle (MK-4),Main Engine,2226.98,Pacific Spares Ltd,28,18
+SP-0044,Exhaust Valve Spindle (MK-1),Main Engine,806.56,Nordic Marine Supply,28,6
+SP-0045,Turbocharger Bearing (MK-2),Main Engine,1099.47,Pacific Spares Ltd,21,32
+SP-0046,Connecting Rod Bolt (MK-3),Main Engine,667.49,Nordic Marine Supply,5,27
+SP-0047,Cylinder Head Gasket (MK-4),Main Engine,2071.07,Pacific Spares Ltd,10,4
+SP-0048,Camshaft Follower (MK-1),Main Engine,1604.76,Nordic Marine Supply,10,23
+SP-0049,AVR Voltage Regulator (MK-2),Auxiliary Generator,277.47,Pacific Spares Ltd,21,26
+SP-0050,Alternator Brush Kit (MK-3),Auxiliary Generator,396.99,Nordic Marine Supply,3,5
+SP-0051,Governor Actuator (MK-4),Auxiliary Generator,45.51,Pacific Spares Ltd,14,34
+SP-0052,Starter Solenoid (MK-1),Auxiliary Generator,2286.89,Nordic Marine Supply,3,39
+SP-0053,Jacket Water Thermostat (MK-2),Auxiliary Generator,1954.02,Pacific Spares Ltd,5,7
+SP-0054,Lube Oil Filter Element (MK-3),Auxiliary Generator,1538.68,Nordic Marine Supply,28,34
+SP-0055,Crankcase Breather (MK-4),Auxiliary Generator,2345.06,Pacific Spares Ltd,21,40
+SP-0056,Excitation Diode Bridge (MK-1),Auxiliary Generator,904.19,Nordic Marine Supply,3,20
+SP-0057,Sea Water Impeller (MK-2),Cooling & Pumps,1643.32,Pacific Spares Ltd,14,31
+SP-0058,Mechanical Shaft Seal (MK-3),Cooling & Pumps,1703.86,Nordic Marine Supply,5,34
+SP-0059,Plate Heat Exchanger Gasket (MK-4),Cooling & Pumps,581.14,Pacific Spares Ltd,14,8
+SP-0060,Centrifugal Pump Wear Ring (MK-1),Cooling & Pumps,2349.66,Nordic Marine Supply,21,32
+SP-0061,Freshwater Cooler Tube (MK-2),Cooling & Pumps,744.09,Pacific Spares Ltd,10,42
+SP-0062,Ballast Valve Actuator (MK-3),Cooling & Pumps,430.09,Nordic Marine Supply,5,37
+SP-0063,Bilge Pump Diaphragm (MK-4),Cooling & Pumps,780.94,Pacific Spares Ltd,10,24
+SP-0064,Thermostatic Mixing Valve (MK-1),Cooling & Pumps,1988.23,Nordic Marine Supply,14,12
+SP-0065,X-Band Magnetron (MK-2),Navigation & Radar,949.29,Pacific Spares Ltd,3,24
+SP-0066,Gyrocompass Repeater Card (MK-3),Navigation & Radar,2180.09,Nordic Marine Supply,3,22
+SP-0067,AIS Transponder Antenna (MK-4),Navigation & Radar,1599.29,Pacific Spares Ltd,28,1
+SP-0068,ECDIS Trackball Module (MK-1),Navigation & Radar,106.53,Nordic Marine Supply,10,20
+SP-0069,Echo Sounder Transducer (MK-2),Navigation & Radar,1687.12,Pacific Spares Ltd,10,20
+SP-0070,Anemometer Wind Cup Set (MK-3),Navigation & Radar,2243.07,Nordic Marine Supply,10,29
+SP-0071,VHF Handset Assembly (MK-4),Navigation & Radar,1419.74,Pacific Spares Ltd,28,10
+SP-0072,GPS Receiver Module (MK-1),Navigation & Radar,415.11,Nordic Marine Supply,14,13
+SP-0073,Mooring Winch Brake Band (MK-2),Deck Machinery,1087.83,Pacific Spares Ltd,7,29
+SP-0074,Hydraulic Hose Assembly (MK-3),Deck Machinery,1483.72,Nordic Marine Supply,21,45
+SP-0075,Windlass Clutch Lining (MK-4),Deck Machinery,212.17,Pacific Spares Ltd,10,2
+SP-0076,Cargo Crane Wire Sheave (MK-1),Deck Machinery,515.16,Nordic Marine Supply,5,2
+SP-0077,Hatch Cover Rubber Packing (MK-2),Deck Machinery,1604.0,Pacific Spares Ltd,28,3
+SP-0078,Capstan Gear Pinion (MK-3),Deck Machinery,1131.63,Nordic Marine Supply,28,41
+SP-0079,Fairlead Roller Bush (MK-4),Deck Machinery,498.41,Pacific Spares Ltd,21,43
+SP-0080,Hydraulic Relief Valve (MK-1),Deck Machinery,2156.15,Nordic Marine Supply,5,41
+SP-0081,Piston Ring Set (MK-2),Main Engine,1319.5,Pacific Spares Ltd,28,33
+SP-0082,Cylinder Liner (MK-3),Main Engine,2196.55,Nordic Marine Supply,5,10
+SP-0083,Fuel Injector Nozzle (MK-4),Main Engine,1635.24,Pacific Spares Ltd,5,24
+SP-0084,Exhaust Valve Spindle (MK-1),Main Engine,701.1,Nordic Marine Supply,14,26
+SP-0085,Turbocharger Bearing (MK-2),Main Engine,2132.65,Pacific Spares Ltd,10,19
+SP-0086,Connecting Rod Bolt (MK-3),Main Engine,495.21,Nordic Marine Supply,5,16
+SP-0087,Cylinder Head Gasket (MK-4),Main Engine,1160.72,Pacific Spares Ltd,28,26
+SP-0088,Camshaft Follower (MK-1),Main Engine,736.85,Nordic Marine Supply,5,20
+SP-0089,AVR Voltage Regulator (MK-2),Auxiliary Generator,1294.0,Pacific Spares Ltd,10,7
+SP-0090,Alternator Brush Kit (MK-3),Auxiliary Generator,1313.04,Nordic Marine Supply,14,17
+SP-0091,Governor Actuator (MK-4),Auxiliary Generator,2007.85,Pacific Spares Ltd,28,13
+SP-0092,Starter Solenoid (MK-1),Auxiliary Generator,601.36,Nordic Marine Supply,3,29
+SP-0093,Jacket Water Thermostat (MK-2),Auxiliary Generator,1597.86,Pacific Spares Ltd,10,34
+SP-0094,Lube Oil Filter Element (MK-3),Auxiliary Generator,1928.87,Nordic Marine Supply,28,42
+SP-0095,Crankcase Breather (MK-4),Auxiliary Generator,483.8,Pacific Spares Ltd,3,22
+SP-0096,Excitation Diode Bridge (MK-1),Auxiliary Generator,2080.93,Nordic Marine Supply,7,35
+SP-0097,Sea Water Impeller (MK-2),Cooling & Pumps,1697.61,Pacific Spares Ltd,28,34
+SP-0098,Mechanical Shaft Seal (MK-3),Cooling & Pumps,565.78,Nordic Marine Supply,14,45
+SP-0099,Plate Heat Exchanger Gasket (MK-4),Cooling & Pumps,719.54,Pacific Spares Ltd,28,36
+SP-0100,Centrifugal Pump Wear Ring (MK-1),Cooling & Pumps,1802.98,Nordic Marine Supply,14,18
+SP-0101,Freshwater Cooler Tube (MK-2),Cooling & Pumps,1398.61,Pacific Spares Ltd,21,35
+SP-0102,Ballast Valve Actuator (MK-3),Cooling & Pumps,363.95,Nordic Marine Supply,28,16
+SP-0103,Bilge Pump Diaphragm (MK-4),Cooling & Pumps,276.92,Pacific Spares Ltd,10,10
+SP-0104,Thermostatic Mixing Valve (MK-1),Cooling & Pumps,300.02,Nordic Marine Supply,3,22
+SP-0105,X-Band Magnetron (MK-2),Navigation & Radar,1782.27,Pacific Spares Ltd,5,41
+SP-0106,Gyrocompass Repeater Card (MK-3),Navigation & Radar,1560.36,Nordic Marine Supply,14,20
+SP-0107,AIS Transponder Antenna (MK-4),Navigation & Radar,710.67,Pacific Spares Ltd,28,4
+SP-0108,ECDIS Trackball Module (MK-1),Navigation & Radar,744.94,Nordic Marine Supply,7,10
+SP-0109,Echo Sounder Transducer (MK-2),Navigation & Radar,672.36,Pacific Spares Ltd,3,0
+SP-0110,Anemometer Wind Cup Set (MK-3),Navigation & Radar,1035.0,Nordic Marine Supply,28,16
+SP-0111,VHF Handset Assembly (MK-4),Navigation & Radar,1041.94,Pacific Spares Ltd,3,3
+SP-0112,GPS Receiver Module (MK-1),Navigation & Radar,276.96,Nordic Marine Supply,3,19
+SP-0113,Mooring Winch Brake Band (MK-2),Deck Machinery,340.86,Pacific Spares Ltd,21,35
+SP-0114,Hydraulic Hose Assembly (MK-3),Deck Machinery,1431.44,Nordic Marine Supply,28,22
+SP-0115,Windlass Clutch Lining (MK-4),Deck Machinery,802.51,Pacific Spares Ltd,10,38
+SP-0116,Cargo Crane Wire Sheave (MK-1),Deck Machinery,1549.88,Nordic Marine Supply,21,39
+SP-0117,Hatch Cover Rubber Packing (MK-2),Deck Machinery,136.42,Pacific Spares Ltd,10,20
+SP-0118,Capstan Gear Pinion (MK-3),Deck Machinery,1506.72,Nordic Marine Supply,14,29
+SP-0119,Fairlead Roller Bush (MK-4),Deck Machinery,1069.83,Pacific Spares Ltd,21,7
+SP-0120,Hydraulic Relief Valve (MK-1),Deck Machinery,1695.94,Nordic Marine Supply,28,32
+SP-0121,Piston Ring Set (MK-2),Main Engine,1683.78,Pacific Spares Ltd,7,24
+SP-0122,Cylinder Liner (MK-3),Main Engine,746.97,Nordic Marine Supply,28,22
+SP-0123,Fuel Injector Nozzle (MK-4),Main Engine,183.6,Pacific Spares Ltd,21,27
+SP-0124,Exhaust Valve Spindle (MK-1),Main Engine,2157.59,Nordic Marine Supply,7,44
+SP-0125,Turbocharger Bearing (MK-2),Main Engine,839.97,Pacific Spares Ltd,21,7
+SP-0126,Connecting Rod Bolt (MK-3),Main Engine,759.15,Nordic Marine Supply,10,20
+SP-0127,Cylinder Head Gasket (MK-4),Main Engine,1453.38,Pacific Spares Ltd,3,34
+SP-0128,Camshaft Follower (MK-1),Main Engine,2346.08,Nordic Marine Supply,5,35
+SP-0129,AVR Voltage Regulator (MK-2),Auxiliary Generator,180.03,Pacific Spares Ltd,3,10
+SP-0130,Alternator Brush Kit (MK-3),Auxiliary Generator,1533.62,Nordic Marine Supply,3,2
+SP-0131,Governor Actuator (MK-4),Auxiliary Generator,347.27,Pacific Spares Ltd,7,38
+SP-0132,Starter Solenoid (MK-1),Auxiliary Generator,1603.18,Nordic Marine Supply,21,19
+SP-0133,Jacket Water Thermostat (MK-2),Auxiliary Generator,114.25,Pacific Spares Ltd,14,8
+SP-0134,Lube Oil Filter Element (MK-3),Auxiliary Generator,901.11,Nordic Marine Supply,10,24
+SP-0135,Crankcase Breather (MK-4),Auxiliary Generator,620.53,Pacific Spares Ltd,10,42
+SP-0136,Excitation Diode Bridge (MK-1),Auxiliary Generator,573.05,Nordic Marine Supply,5,11
+SP-0137,Sea Water Impeller (MK-2),Cooling & Pumps,1350.74,Pacific Spares Ltd,21,45
+SP-0138,Mechanical Shaft Seal (MK-3),Cooling & Pumps,2292.87,Nordic Marine Supply,21,35
+SP-0139,Plate Heat Exchanger Gasket (MK-4),Cooling & Pumps,999.44,Pacific Spares Ltd,7,9
+SP-0140,Centrifugal Pump Wear Ring (MK-1),Cooling & Pumps,593.96,Nordic Marine Supply,3,17
+SP-0141,Freshwater Cooler Tube (MK-2),Cooling & Pumps,1346.47,Pacific Spares Ltd,10,16
+SP-0142,Ballast Valve Actuator (MK-3),Cooling & Pumps,2350.14,Nordic Marine Supply,5,40
+SP-0143,Bilge Pump Diaphragm (MK-4),Cooling & Pumps,1472.73,Pacific Spares Ltd,28,11
+SP-0144,Thermostatic Mixing Valve (MK-1),Cooling & Pumps,1374.92,Nordic Marine Supply,21,32
+SP-0145,X-Band Magnetron (MK-2),Navigation & Radar,2016.77,Pacific Spares Ltd,7,40
+SP-0146,Gyrocompass Repeater Card (MK-3),Navigation & Radar,1296.68,Nordic Marine Supply,21,20
+SP-0147,AIS Transponder Antenna (MK-4),Navigation & Radar,180.3,Pacific Spares Ltd,28,0
+SP-0148,ECDIS Trackball Module (MK-1),Navigation & Radar,1555.0,Nordic Marine Supply,5,30
+SP-0149,Echo Sounder Transducer (MK-2),Navigation & Radar,185.2,Pacific Spares Ltd,5,43
+SP-0150,Anemometer Wind Cup Set (MK-3),Navigation & Radar,1268.23,Nordic Marine Supply,5,25
+SP-0151,VHF Handset Assembly (MK-4),Navigation & Radar,1745.98,Pacific Spares Ltd,7,14
+SP-0152,GPS Receiver Module (MK-1),Navigation & Radar,1395.62,Nordic Marine Supply,7,21
+SP-0153,Mooring Winch Brake Band (MK-2),Deck Machinery,2116.22,Pacific Spares Ltd,7,22
+SP-0154,Hydraulic Hose Assembly (MK-3),Deck Machinery,1149.54,Nordic Marine Supply,10,35
+SP-0155,Windlass Clutch Lining (MK-4),Deck Machinery,1996.51,Pacific Spares Ltd,28,43
+SP-0156,Cargo Crane Wire Sheave (MK-1),Deck Machinery,1441.29,Nordic Marine Supply,5,10
+SP-0157,Hatch Cover Rubber Packing (MK-2),Deck Machinery,1555.38,Pacific Spares Ltd,5,31
+SP-0158,Capstan Gear Pinion (MK-3),Deck Machinery,2194.58,Nordic Marine Supply,7,33
+SP-0159,Fairlead Roller Bush (MK-4),Deck Machinery,1734.15,Pacific Spares Ltd,28,2
+SP-0160,Hydraulic Relief Valve (MK-1),Deck Machinery,1582.07,Nordic Marine Supply,3,19
+SP-0161,Piston Ring Set (MK-2),Main Engine,941.57,Pacific Spares Ltd,21,16
+SP-0162,Cylinder Liner (MK-3),Main Engine,376.8,Nordic Marine Supply,21,6
+SP-0163,Fuel Injector Nozzle (MK-4),Main Engine,2447.14,Pacific Spares Ltd,3,34
+SP-0164,Exhaust Valve Spindle (MK-1),Main Engine,567.18,Nordic Marine Supply,28,44
+SP-0165,Turbocharger Bearing (MK-2),Main Engine,1445.64,Pacific Spares Ltd,14,2
+SP-0166,Connecting Rod Bolt (MK-3),Main Engine,2343.08,Nordic Marine Supply,10,34
+SP-0167,Cylinder Head Gasket (MK-4),Main Engine,2361.36,Pacific Spares Ltd,14,41
+SP-0168,Camshaft Follower (MK-1),Main Engine,1636.56,Nordic Marine Supply,14,6
+SP-0169,AVR Voltage Regulator (MK-2),Auxiliary Generator,250.72,Pacific Spares Ltd,21,24
+SP-0170,Alternator Brush Kit (MK-3),Auxiliary Generator,847.33,Nordic Marine Supply,7,19
+SP-0171,Governor Actuator (MK-4),Auxiliary Generator,145.02,Pacific Spares Ltd,14,42
+SP-0172,Starter Solenoid (MK-1),Auxiliary Generator,1938.32,Nordic Marine Supply,5,18
+SP-0173,Jacket Water Thermostat (MK-2),Auxiliary Generator,755.18,Pacific Spares Ltd,7,22
+SP-0174,Lube Oil Filter Element (MK-3),Auxiliary Generator,367.28,Nordic Marine Supply,10,12
+SP-0175,Crankcase Breather (MK-4),Auxiliary Generator,2392.57,Pacific Spares Ltd,21,0
+SP-0176,Excitation Diode Bridge (MK-1),Auxiliary Generator,2082.78,Nordic Marine Supply,21,30
+SP-0177,Sea Water Impeller (MK-2),Cooling & Pumps,2303.82,Pacific Spares Ltd,7,34
+SP-0178,Mechanical Shaft Seal (MK-3),Cooling & Pumps,455.98,Nordic Marine Supply,14,1
+SP-0179,Plate Heat Exchanger Gasket (MK-4),Cooling & Pumps,476.99,Pacific Spares Ltd,14,9
+SP-0180,Centrifugal Pump Wear Ring (MK-1),Cooling & Pumps,439.27,Nordic Marine Supply,3,32
+SP-0181,Freshwater Cooler Tube (MK-2),Cooling & Pumps,1650.83,Pacific Spares Ltd,21,41
+SP-0182,Ballast Valve Actuator (MK-3),Cooling & Pumps,1889.19,Nordic Marine Supply,28,23
+SP-0183,Bilge Pump Diaphragm (MK-4),Cooling & Pumps,197.96,Pacific Spares Ltd,7,13
+SP-0184,Thermostatic Mixing Valve (MK-1),Cooling & Pumps,1324.78,Nordic Marine Supply,14,39
+SP-0185,X-Band Magnetron (MK-2),Navigation & Radar,641.81,Pacific Spares Ltd,3,20
+SP-0186,Gyrocompass Repeater Card (MK-3),Navigation & Radar,1210.38,Nordic Marine Supply,28,4
+SP-0187,AIS Transponder Antenna (MK-4),Navigation & Radar,961.78,Pacific Spares Ltd,14,19
+SP-0188,ECDIS Trackball Module (MK-1),Navigation & Radar,1602.35,Nordic Marine Supply,7,30
+SP-0189,Echo Sounder Transducer (MK-2),Navigation & Radar,2232.35,Pacific Spares Ltd,3,35
+SP-0190,Anemometer Wind Cup Set (MK-3),Navigation & Radar,1293.07,Nordic Marine Supply,28,22
+SP-0191,VHF Handset Assembly (MK-4),Navigation & Radar,1688.9,Pacific Spares Ltd,10,37
+SP-0192,GPS Receiver Module (MK-1),Navigation & Radar,875.01,Nordic Marine Supply,3,5
+SP-0193,Mooring Winch Brake Band (MK-2),Deck Machinery,1989.25,Pacific Spares Ltd,28,19
+SP-0194,Hydraulic Hose Assembly (MK-3),Deck Machinery,683.06,Nordic Marine Supply,21,14
+SP-0195,Windlass Clutch Lining (MK-4),Deck Machinery,449.86,Pacific Spares Ltd,10,32
+SP-0196,Cargo Crane Wire Sheave (MK-1),Deck Machinery,1395.59,Nordic Marine Supply,7,42
+SP-0197,Hatch Cover Rubber Packing (MK-2),Deck Machinery,2106.69,Pacific Spares Ltd,10,20
+SP-0198,Capstan Gear Pinion (MK-3),Deck Machinery,470.07,Nordic Marine Supply,28,29
+SP-0199,Fairlead Roller Bush (MK-4),Deck Machinery,574.51,Pacific Spares Ltd,21,22
+SP-0200,Hydraulic Relief Valve (MK-1),Deck Machinery,1869.97,Nordic Marine Supply,7,26
